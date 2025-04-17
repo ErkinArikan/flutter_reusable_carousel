@@ -1,6 +1,6 @@
 ## 🎥 Preview
 
-![carousel demo](assets/demo.mov)
+![carousel demo](assets/demo.mp4)
 
 # 📸 Flutter Reusable Carousel Slider
 
