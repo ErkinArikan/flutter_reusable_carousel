@@ -1,3 +1,7 @@
+## 🎥 Preview
+
+![carousel demo](assets/demo.mov)
+
 # 📸 Flutter Reusable Carousel Slider
 
 A reusable, responsive, and visually aesthetic carousel slider widget built with Flutter and the `carousel_slider` & `kartal` packages.
